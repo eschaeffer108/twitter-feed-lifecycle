@@ -1,0 +1,10 @@
+---
+title: "Twitter Feed Lifecycle"
+type: "exercise"  # challenge, exercise, article, video
+description: ""
+tags: "react"
+behaviors:
+  - react_on_node
+  - sinatra
+ignore:
+- "twitter-feed-lifecycle.md"
